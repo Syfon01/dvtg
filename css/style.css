@@ -8911,9 +8911,9 @@ h1, h2, h3, h4, h5,
   .services .media-body {
     color: rgba(0, 0, 0, 0.8); }
     .services .media-body h3 {
-      font-size: 18px;
-      font-weight: 500;
-      color: #000000; }
+      font-size: 20px;
+      font-weight: 700;
+      color: #fc983c; }
     .services .media-body p {
       margin-bottom: 0; }
   .services.active {
